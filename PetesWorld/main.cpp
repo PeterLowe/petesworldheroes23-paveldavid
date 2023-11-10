@@ -125,7 +125,6 @@ int main()
 			std::cout << "Dominica, Dominican Republic";
 		}
 	}
-<<<<<<< HEAD
 	if (letter == 'e' || letter == 'E') //written by Pavel
 	{
 		if (region == 1)
@@ -147,7 +146,8 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "There are no E's in Rest of the world";
-=======
+		}
+	}
 	if (letter == 'v' || letter == 'V') //written by David
 	{
 		if (region == 1)
@@ -169,7 +169,6 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "Vanuatu Melanesia, Oceania" << std::endl;
->>>>>>> 0d672efc1906f9cbd5426b9486ca07836d72661d
 		}
 	}
 	if (letter == 'w' || letter == 'W') //written by David
