@@ -1,13 +1,9 @@
 // program to find countries in Pete's World
 // date 10/11/2023
 // author Pete Lowe
-<<<<<<< HEAD
 // add your name here
 // Pavel Dobias
-=======
 // David Hajek
-//  or here
->>>>>>> b16185854ad01748804853bf3e4c46fe74381d63
 // estimated time 120 minutes
 // actual time ??
 // version 1.0
