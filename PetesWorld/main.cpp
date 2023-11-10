@@ -146,7 +146,7 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "Vanuatu Melanesia, Oceania" << std::endl;
-		{
+		}
 	}
 	if (letter == 'w' || letter == 'W') //written by David
 	{
@@ -216,7 +216,6 @@ int main()
 		{
 			std::cout << "There are no Zs in rest of the world" << std::endl;
 		}
-	
 	}
 	return 1;
 	}
