@@ -125,6 +125,7 @@ int main()
 			std::cout << "Dominica, Dominican Republic";
 		}
 	}
+<<<<<<< HEAD
 	if (letter == 'e' || letter == 'E') //written by Pavel
 	{
 		if (region == 1)
@@ -146,6 +147,29 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "There are no E's in Rest of the world";
+=======
+	if (letter == 'v' || letter == 'V') //written by David
+	{
+		if (region == 1)
+		{
+			std::cout << "Virgin Islands (U.S.) Lesser Antilles, Caribbean, Virgin Islands (British) Lesser Antilles, Caribbean. Venezuela Northern South America" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Vatican City State (Holy See) Southern Europe within Italy" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "There are no Vs in Africa" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "vietnam South-East Asia" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Vanuatu Melanesia, Oceania" << std::endl;
+>>>>>>> 0d672efc1906f9cbd5426b9486ca07836d72661d
 		}
 	}
 	if (letter == 'w' || letter == 'W') //written by David
@@ -216,7 +240,6 @@ int main()
 		{
 			std::cout << "There are no Zs in rest of the world" << std::endl;
 		}
-	
 	}
 	return 1;
 	}
