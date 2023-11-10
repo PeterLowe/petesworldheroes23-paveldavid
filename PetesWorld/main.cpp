@@ -102,6 +102,29 @@ int main()
 			std::cout << "Cayman Islands, Cook Islands, Cuba";
 		}
 	}
+	if (letter == 'v' || letter == 'V') //written by David
+	{
+		if (region == 1)
+		{
+			std::cout << "Virgin Islands (U.S.) Lesser Antilles, Caribbean, Virgin Islands (British) Lesser Antilles, Caribbean. Venezuela Northern South America" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Vatican City State (Holy See) Southern Europe within Italy" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "There are no Vs in Africa" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "vietnam South-East Asia" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Vanuatu Melanesia, Oceania" << std::endl;
+		}
+	}
 	if (letter == 'w' || letter == 'W') //written by David
 	{
 		if (region == 1)
