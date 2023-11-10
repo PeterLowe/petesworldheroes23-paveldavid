@@ -56,7 +56,7 @@ int main()
 			std::cout << "Australia, Antarctica, Aruba, Anguilla Leeward Islands, Antigua and Barbuda, American Samoa" << std::endl;
 		}
 	}
-	if (letter == 'b' || letter == 'B')
+	if (letter == 'b' || letter == 'B') //written by Pavel
 	{
 		if (region == 1)
 		{
@@ -79,7 +79,7 @@ int main()
 			std::cout << "BahrainArabian Peninsula, Barbados, Bahamas";
 		}
 	}
-	if (letter == 'c' || letter == 'C')
+	if (letter == 'c' || letter == 'C') //written by Pavel
 	{
 		if (region == 1)
 		{
@@ -102,7 +102,7 @@ int main()
 			std::cout << "Cayman Islands, Cook Islands, Cuba";
 		}
 	}
-	if (letter == 'd' || letter == 'D')
+	if (letter == 'd' || letter == 'D') //written by Pavel
 	{
 		if (region == 1)
 		{
@@ -123,6 +123,29 @@ int main()
 		if (region == 5)
 		{
 			std::cout << "Dominica, Dominican Republic";
+		}
+	}
+	if (letter == 'e' || letter == 'E') //written by Pavel
+	{
+		if (region == 1)
+		{
+			std::cout << "Ecuador, El Salvador";
+		}
+		if (region == 2)
+		{
+			std::cout << "Estonia";
+		}
+		if (region == 3)
+		{
+			std::cout << "Equatorial Guinea, Eritrea, Ethiopia, Egypt";
+		}
+		if (region == 4)
+		{
+			std::cout << "East Timor";
+		}
+		if (region == 5)
+		{
+			std::cout << "There are no E's in Rest of the world";
 		}
 	}
 	if (letter == 'w' || letter == 'W') //written by David
